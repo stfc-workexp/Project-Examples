@@ -1,2 +1,2 @@
-# Project-Examples
-This repository contains exemplars of past projects completed by Work Experience Students at the Scientific Computing Department at RAL.
+# Simulating Planetary Orbits
+This repository contains an example of a work experience project: Simulating Planetary Orbits in Python. This small Object-Oriented program will introduce you to the basic principles of Python programming. 
