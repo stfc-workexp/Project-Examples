@@ -2,7 +2,10 @@
 This repository contains an example of a work experience project: Simulating Planetary Orbits in Python. This small Object-Oriented program will introduce you to the basic principles of Python programming. 
 
 This exercise uses a computational method called NUMERIC INTEGRATION.
+
 A.	BASIC PRINCIPLES OF THE PROGRAM 
+
+
 The program uses a “brute force approach” as the basis for our simulation. 
 1.	We map the Object Positions and Velocities at time, t using a coordinate system 
 2.	Calculate the forces the bodies exert on each other in both the x and y components. 
